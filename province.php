@@ -4,6 +4,7 @@
   $data = json_decode($json);
 
 
-  foreach($deta as $key=>$val)
-      echo $val->province."<br>"  
+  foreach($deta as $key=>$val){
+      echo $val->province."<br>";
+  }
 ?>
