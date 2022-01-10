@@ -7,7 +7,7 @@
   echo "<center><table border='1'>";
   echo "<tr align='center'>
         <td bgcolor='#4F80C0'><b>ลำดับ</b></td>
-        <td bgcolor='#82B2B7'><b>จังหวัด</b></td>
+        <td bgcolor='#EAABBC'><b>จังหวัด</b></td>
         <td bgcolor='#4682B4'><b>ผู้ป่วยใหม่</b></td>
         <td bgcolor='#218B81'><b>ผู้ป่วยรวม</b></td>
         <td bgcolor='#FFD700'><b>ผู้ป่วยในประเทศ</b></td>
@@ -21,7 +21,7 @@
     echo ($key+1);
     echo "</td>";
     
-    echo "<td bgcolor='#B0E0E6'>";
+    echo "<td bgcolor='#FDD4C1'>";
     echo $val->province;
     echo "</td>";
     
