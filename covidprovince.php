@@ -8,8 +8,8 @@
   echo "<tr align='center'>
         <td bgcolor='#4F80C0'><b>ลำดับ</b></td>
         <td bgcolor='#EAABBC'><b>จังหวัด</b></td>
-        <td bgcolor='#4682B4'><b>ผู้ป่วยใหม่</b></td>
-        <td bgcolor='#218B81'><b>ผู้ป่วยรวม</b></td>
+        <td bgcolor='#96BDC4'><b>ผู้ป่วยใหม่</b></td>
+        <td bgcolor='#DCCBED'><b>ผู้ป่วยรวม</b></td>
         <td bgcolor='#FFD700'><b>ผู้ป่วยในประเทศ</b></td>
         <td bgcolor='#FF4500'><b>ผู้ป่วยรวมในประเทศ</b></td>
         <td bgcolor='#A52A2A'><b>ผู้เสียชีวิตใหม่</b></td>
@@ -25,11 +25,11 @@
     echo $val->province;
     echo "</td>";
     
-    echo "<td bgcolor='#B0C4DE'>";
+    echo "<td bgcolor='#C2DBDF'>";
     echo $val->new_case;
     echo "</td>";
     
-    echo "<td bgcolor='#A9C8C0'>";
+    echo "<td bgcolor='#EADFF2'>";
     echo $val->total_case;
     echo "</td>";
     
