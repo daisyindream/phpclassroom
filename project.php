@@ -57,7 +57,7 @@
             <div class="card-body">
               <h5 class="card-title">จัดทำโดย</h5>
               <p class="card-text">นางสาวปิยกานต์ ก่อเกียรติพันธุ์</p>
-              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 28 , 55440</small></p>
+              <p class="card-text"><small class="text-muted">ม.6/13 เลขที่ 28 , 57904</small></p>
             </div>
           </div>
         </div>
